@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Ignore Visual Studio cache & temp files
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+*.dbmdl
+*.vssscc
+*.vspscc
+*.csproj.user
