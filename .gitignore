@@ -41,3 +41,7 @@
 *.vssscc
 *.vspscc
 *.csproj.user
+
+# Build folders
+bin/
+obj/
